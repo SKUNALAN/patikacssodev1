@@ -1,6 +1,6 @@
-# **Kodluyoruz CSS Ödev-1**
+# **Patika CSS Ödev-1**
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi CSS dersleri 1. Ödev çalışmaları kapsamında oluşturuldu. İçerisinde bir adet README,bir adet img klasörü, bir adet html klasörü, bir adet style.css barındırıyor.
+Bu repo [Patika](https://www.patika.dev) Front-End Eğitimi CSS dersleri 1. Ödev çalışmaları kapsamında oluşturuldu. İçerisinde bir adet README,bir adet img klasörü, bir adet html klasörü, bir adet style.css barındırıyor.
 
 
 ## **Installation**
