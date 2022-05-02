@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi CSS dersleri
 
 Öncelikle projeyi clonelayın.
 ```
-git clone https://github.com/SKUNALAN/Kodluyoruz-Frontend.git
+git clone https://github.com/SKUNALAN/patikacssodev1.git
 ```
 
 ## **Usage**
